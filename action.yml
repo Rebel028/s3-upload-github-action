@@ -1,6 +1,6 @@
-name: "S3 Upload"
-description: "Upload files and directories to S3 compatible cloud buckets"
-author: "Koray Koska <koray@koska.at>"
+name: "S3 Storage Upload"
+description: "Upload files and directories to S3 compatible cloud buckets. Forked from koraykoska/s3-upload-github-action"
+author: Rebel028
 runs:
   using: docker
   image: Dockerfile
